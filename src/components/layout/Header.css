@@ -1,0 +1,10 @@
+header .active {
+  color: red !important;
+}
+
+header .nav-link {
+  padding-left: 0;
+  padding-right: 0;
+  color: white;
+}
+
